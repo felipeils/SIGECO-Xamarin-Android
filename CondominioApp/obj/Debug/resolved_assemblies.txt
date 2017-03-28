@@ -1,0 +1,10 @@
+C:\Users\Pipe.000\documents\visual studio 2015\Projects\CondominioApp\CondominioApp\obj\Debug\assemblies\CondominioApp.dll
+C:\Users\Pipe.000\documents\visual studio 2015\Projects\CondominioApp\CondominioApp\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Pipe.000\documents\visual studio 2015\Projects\CondominioApp\CondominioApp\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Pipe.000\documents\visual studio 2015\Projects\CondominioApp\CondominioApp\obj\Debug\assemblies\System.Core.dll
+C:\Users\Pipe.000\documents\visual studio 2015\Projects\CondominioApp\CondominioApp\obj\Debug\assemblies\System.dll
+C:\Users\Pipe.000\documents\visual studio 2015\Projects\CondominioApp\CondominioApp\obj\Debug\assemblies\System.Json.dll
+C:\Users\Pipe.000\documents\visual studio 2015\Projects\CondominioApp\CondominioApp\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Pipe.000\documents\visual studio 2015\Projects\CondominioApp\CondominioApp\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\Pipe.000\documents\visual studio 2015\Projects\CondominioApp\CondominioApp\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Pipe.000\documents\visual studio 2015\Projects\CondominioApp\CondominioApp\obj\Debug\assemblies\System.ServiceModel.Internals.dll

@@ -1,0 +1,9 @@
+C:\Users\Pipe.000\Documents\Visual Studio 2015\Projects\CondominioApp\CondominioApp\obj\Release\android\assets\CondominioApp.dll
+C:\Users\Pipe.000\Documents\Visual Studio 2015\Projects\CondominioApp\CondominioApp\obj\Release\android\assets\Mono.Android.dll
+C:\Users\Pipe.000\Documents\Visual Studio 2015\Projects\CondominioApp\CondominioApp\obj\Release\android\assets\mscorlib.dll
+C:\Users\Pipe.000\Documents\Visual Studio 2015\Projects\CondominioApp\CondominioApp\obj\Release\android\assets\System.Core.dll
+C:\Users\Pipe.000\Documents\Visual Studio 2015\Projects\CondominioApp\CondominioApp\obj\Release\android\assets\System.dll
+C:\Users\Pipe.000\Documents\Visual Studio 2015\Projects\CondominioApp\CondominioApp\obj\Release\android\assets\System.Json.dll
+C:\Users\Pipe.000\Documents\Visual Studio 2015\Projects\CondominioApp\CondominioApp\obj\Release\android\assets\System.Xml.dll
+C:\Users\Pipe.000\Documents\Visual Studio 2015\Projects\CondominioApp\CondominioApp\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\Pipe.000\Documents\Visual Studio 2015\Projects\CondominioApp\CondominioApp\obj\Release\android\assets\System.ServiceModel.Internals.dll
